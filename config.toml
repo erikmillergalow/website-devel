@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://erikmillergalow.com/"
 languageCode = "en-us"
 title = "Erik Miller-Galow"
 theme = "ezhil"
@@ -48,10 +48,26 @@ weight = 6
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/erikmillergalow"
+
 [[params.social]]
 name = "Github"
 icon = "github"
 url = "https://github.com/erikmillergalow"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/erikmillergalow"
+
+[[params.social]]
+name = "Soundcloud"
+icon = "headphones"
+url = "https://soundcloud.com/erikmillergalow"
 
 # Enable tags.
 [taxonomies]
