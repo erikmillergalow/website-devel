@@ -1,7 +1,6 @@
 ---
 title: "About"
-date: 2019-06-04T19:02:37-04:00
-draft: false
+type: "not-post"
 ---
 
 <img src="images/me.jpg" </img>
