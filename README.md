@@ -1,2 +1,2 @@
 # website-devel
-Hugo dev environment 
+erikmillergalow.com 
